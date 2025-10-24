@@ -75,5 +75,5 @@ README.md                    # Project documentation
 
 🧑‍💻 Author
 
-Your Name
+Nancy Ahake
 Feel free to improve, remix, or extend this educational Snake game!
